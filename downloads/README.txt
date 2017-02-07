@@ -1,0 +1,1 @@
+The Elasticsearch RPMs will be downloaded to this folder on the first "vagrant up". If you have already downloaded the RPMs, you may copy the RPMs to this folder to skip having to download the RPMs again.

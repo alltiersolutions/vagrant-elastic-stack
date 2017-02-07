@@ -1,0 +1,6 @@
+filebeat.prospectors:
+- input_type: log
+  paths:
+    - /vagrant/samplelogs/*
+output.logstash:
+  hosts: ["localhost:5043"]
